@@ -12,7 +12,7 @@
 -->
 >
 #### 🌟 You can continue, if..
- - [X] You have read important comment
+ - [X] You **have read important comment**
  - [X] You have added **at least one** tag
  - [X] You will read **everything** here for yourself.
 - - -
@@ -21,7 +21,7 @@
 tag, so you should type it for yourself. Come back
 to **Edit file**, and find the «!-- After this tag you can 
 type your issue-->». Content on it saying for yourself, you should type your
-issue.
+issue after this tag. You can go to **Edit file** now.
 ##### 📝 Message
 <!-- After this tag you can type your issue -->
 
