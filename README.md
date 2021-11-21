@@ -2,7 +2,7 @@
 > #### ✂️ Install
 > Installing is so easy, just get your link, and put it in script tag. *(Required: HTML, JS)*
 > > ```html
-> > <script src=""></script> <!-- JQuery, AnimeJS -->
+> > <script src="https://raw.githubusercontent.com/zlures/everythinginone/mai/js/%401.0.0/basic/1.js"></script> <!-- JQuery, AnimeJS -->
 > > ```
 > #### 🔍 Getting the links
 > Move to [«js»](https://github.com/zlures/everythinginone/tree/mai/js) directory, select what version + pack do you want. See which file is having libraries that you want, and get raw version link of it.
